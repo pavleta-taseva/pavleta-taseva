@@ -6,7 +6,7 @@ Software Developer | Full-stack JavaScript
 
 JavaScript | Full-stack (MERN) | HTML & CSS
 
-* 🌍  I'm based in Sofia, Bulgaria
+* 🌍  I'm based in Primorsko, Bulgaria
 * 🖥️  See my portfolio at [My portfolio](http://pavleta-taseva.infinityfreeapp.com/?i=1)
 * ✉️  You can contact me at [pavleta.taseva@gmail.com](mailto:pavleta.taseva@gmail.com)
 * 🧠  I'm learning Next.js, TypeScript
