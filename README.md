@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer | Full-stack JavaScript
 ------------------------------------------
 
-JavaScript | Full-stack (MERN) | HTML & CSS
+JavaScript | Full-stack (MERN) | Next.js | HTML & CSS | Web3 enthusiast
 
 * 🌍  I'm based in Primorsko, Bulgaria
 * ✉️  You can contact me at [pavleta.taseva@gmail.com](mailto:pavleta.taseva@gmail.com)
